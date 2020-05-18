@@ -1,2 +1,1 @@
-# letzimpact_dfy
-Letzimpact portal for iBeads
+Letzimpact Portal for ibeads
